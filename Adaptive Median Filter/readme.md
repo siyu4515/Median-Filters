@@ -1,4 +1,4 @@
-A more advanced form of Median FIlter which adapts itself on the basis of its surrounding pixels thus being able to preserve more details than Standard Median Filters.
+A more advanced form of Median Filter which adapts itself on the basis of its surrounding pixels thus being able to preserve more details than Standard Median Filters.
 
 Sample Image :
 
